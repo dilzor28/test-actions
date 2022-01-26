@@ -1,0 +1,15 @@
+D:\EntityFramework\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\EntityFramework\CodeFirst\bin\Debug\CodeFirst.exe
+D:\EntityFramework\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\EntityFramework\CodeFirst\bin\Debug\EntityFramework.dll
+D:\EntityFramework\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\CodeFirst\bin\Debug\EntityFramework.xml
+D:\EntityFramework\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.SuggestedBindingRedirects.cache
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.exe
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialMigrations.resources
+D:\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
